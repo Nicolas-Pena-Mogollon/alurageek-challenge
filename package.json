@@ -1,0 +1,19 @@
+{
+  "name": "alurageek-challenge",
+  "version": "1.0.0",
+  "description": "Desarrollo del challenge alura-geek sprint 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Pena-Mogollon/alurageek-challenge.git"
+  },
+  "author": "Nicolás Peña Mogollón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Pena-Mogollon/alurageek-challenge/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Pena-Mogollon/alurageek-challenge#readme"
+}
